@@ -1,10 +1,3 @@
-# Program Name: Assignment1.py
-# Course: IT3883/Section 01
-# Student Name: Torre Walker
-# Assignment Number: Lab 1
-# Due Date: 01/24/2026
-# Purpose: text buffer menu that allows for the user to store input, clear input and display the input
-# Resources Used: Python class notes, Python documentation
 
 # an empty input buffer
 input_buffer = ""
